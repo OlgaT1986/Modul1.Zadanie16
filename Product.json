@@ -1,0 +1,27 @@
+[
+  {
+    "codeProduct": 1,
+    "nameProduct": "стол",
+    "priceProduct": 13000
+  },
+  {
+    "codeProduct": 2,
+    "nameProduct": "стул",
+    "priceProduct": 8000
+  },
+  {
+    "codeProduct": 3,
+    "nameProduct": "парта",
+    "priceProduct": 6000
+  },
+  {
+    "codeProduct": 4,
+    "nameProduct": "лампа",
+    "priceProduct": 300
+  },
+  {
+    "codeProduct": 5,
+    "nameProduct": "карта",
+    "priceProduct": 350
+  }
+]
